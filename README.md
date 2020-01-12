@@ -1,2 +1,2 @@
 # ml_framework
-Common Framework For ML Based Projects
+Common Framework For ML/DL Based Projects
